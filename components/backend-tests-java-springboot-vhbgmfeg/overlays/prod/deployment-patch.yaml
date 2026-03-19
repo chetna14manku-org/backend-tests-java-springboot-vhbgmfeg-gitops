@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-tssc/task-runner:1.9
+      - image: quay.io/chetna14manku_org/backend-tests-java-springboot-vhbgmfeg:08047eb3c81aab2277358f3ac5ca74c362d2b41b
         name: container-image  
